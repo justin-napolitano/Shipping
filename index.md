@@ -21,6 +21,13 @@ seoSecondaryKeywords:
   - data ingestion
   - data visualization
 seoOptimized: true
+topicFamily: datascience
+topicFamilyConfidence: 0.95
+topicFamilyNotes: >-
+  The post is a data science project focused on ingesting, analyzing, and visualizing global
+  shipping data, involving ETL workflows, exploratory analysis, and visualization using typical data
+  science tools like Python and Jupyter notebooks. It matches the datascience family's description
+  and example projects well.
 ---
 
 # Shipping Project: Technical Overview and Rationale
@@ -58,4 +65,5 @@ Documentation and automation are critical for reproducibility, especially given 
 ## Summary
 
 Shipping provides a foundational framework for analyzing complex global shipping data. Its design emphasizes modularity, clarity, and extensibility, aiming to support ongoing research and operational decision-making in maritime logistics.
+
 
