@@ -1,13 +1,13 @@
 ---
 slug: github-shipping
-title: 'Shipping Project: Analytical Framework for Global Maritime Data'
+title: Technical Overview of the Shipping Data Analysis Project
 repo: justin-napolitano/Shipping
 githubUrl: https://github.com/justin-napolitano/Shipping
 generatedAt: '2025-11-23T09:36:34.803794Z'
 source: github-auto
 summary: >-
-  Description of a modular data science project focused on ingesting, analyzing, and visualizing
-  complex global shipping data for maritime logistics insights.
+  Explore the Shipping project that analyzes global shipping data to provide
+  insights for logistics optimization and economic forecasting.
 tags:
   - shipping
   - data-analysis
@@ -15,19 +15,31 @@ tags:
   - python
   - data-visualization
   - geospatial-analysis
+  - data analysis
+  - shipping data
+  - data visualization
+  - data engineering
+  - Jupyter notebooks
+  - predictive modeling
 seoPrimaryKeyword: shipping data analysis
 seoSecondaryKeywords:
-  - maritime logistics
+  - logistics optimization
   - data ingestion
-  - data visualization
+  - data cleaning
+  - exploratory analysis
+  - data science workflows
+  - visualization techniques
 seoOptimized: true
 topicFamily: datascience
 topicFamilyConfidence: 0.95
 topicFamilyNotes: >-
-  The post is a data science project focused on ingesting, analyzing, and visualizing global
-  shipping data, involving ETL workflows, exploratory analysis, and visualization using typical data
-  science tools like Python and Jupyter notebooks. It matches the datascience family's description
-  and example projects well.
+  The post is a data science project focused on ingesting, analyzing, and
+  visualizing global shipping data, involving ETL workflows, exploratory
+  analysis, and visualization using typical data science tools like Python and
+  Jupyter notebooks. It matches the datascience family's description and example
+  projects well.
+kind: project
+id: github-shipping
 ---
 
 # Shipping Project: Technical Overview and Rationale
