@@ -1,16 +1,31 @@
 ---
 slug: github-shipping
 id: github-shipping
-title: Shipping
+title: Global Shipping Data Analysis with Python or R
 repo: justin-napolitano/Shipping
 githubUrl: https://github.com/justin-napolitano/Shipping
 generatedAt: '2025-11-24T21:36:19.396Z'
 source: github-auto
-summary: Analysis of global shipping patterns and data.
-tags: []
-seoPrimaryKeyword: ''
-seoSecondaryKeywords: []
-seoOptimized: false
+summary: >-
+  Analyze global shipping patterns using Python or R with a modular project
+  structure and comprehensive data insights.
+tags:
+  - python
+  - data analysis
+  - shipping data
+  - pandas
+  - matplotlib
+  - git
+  - jupyter
+  - data visualization
+seoPrimaryKeyword: global shipping data analysis
+seoSecondaryKeywords:
+  - shipping trends analysis
+  - data processing in Python
+  - visualization with matplotlib
+  - git for data projects
+  - interactive dashboards
+seoOptimized: true
 topicFamily: null
 topicFamilyConfidence: null
 kind: project
