@@ -7,8 +7,8 @@ githubUrl: https://github.com/justin-napolitano/Shipping
 generatedAt: '2025-11-24T21:36:19.396Z'
 source: github-auto
 summary: >-
-  Analyze global shipping patterns using Python or R with a modular project
-  structure and comprehensive data insights.
+  Analyze global shipping patterns using Python or R with a modular project structure and
+  comprehensive data insights.
 tags:
   - python
   - data analysis
@@ -26,8 +26,8 @@ seoSecondaryKeywords:
   - git for data projects
   - interactive dashboards
 seoOptimized: true
-topicFamily: null
-topicFamilyConfidence: null
+topicFamily: datascience
+topicFamilyConfidence: 0.9
 kind: project
 entryLayout: project
 showInProjects: true
@@ -96,4 +96,5 @@ Shipping/
 - Automate data ingestion and update pipelines
 - Extend analysis to include predictive modeling and forecasting
 - Improve documentation and add unit tests
+
 
